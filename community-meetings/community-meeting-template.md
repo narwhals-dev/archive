@@ -6,7 +6,7 @@
 - [Community meetings notes archive](https://github.com/narwhals-dev/archive/tree/main/community-meetings)
 
 **Code of Conduct**
-All attendees of Narwhals community events must adhere to the PSF Code of Conduct (https://policies.python.org/python.org/code-of-conduct/). 
+All attendees of Narwhals community events must adhere to the [Narwhals Code of Conduct](https://github.com/narwhals-dev/narwhals?tab=coc-ov-file#readme). 
 
 **Present:** 
 
