@@ -50,7 +50,8 @@ None as this is the first community meeting.
 
 ## Action items
 
-- Set up a public Google calendar for Narwhals community meetings.
+- Set up a public Google calendar for Narwhals community meetings as a bi-weekly event on Fridays at 2:30 pm UTC.
+- Set up this archive repository for the community meetings notes.
 
 ---
 
