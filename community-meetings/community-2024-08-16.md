@@ -33,10 +33,16 @@ _For the notes from the previous meeting, visit:_ https://github.com/narwhals-de
 ## New topics
 
 
+
+
 - Zach Lo introduced himself and told us about his work both as an artist and community developer team manager
-- As we are able to test cuDF ony on Kaggle, we are intrested how we could test cuDF in our CI/CD, hoping Zach could help as to get in touch with Cuda and Rapids teams.
+- As we are able to test cuDF only on Kaggle, we are interested in how we could test cuDF in our CI/CD, hoping Zach could help us to get in touch with Cuda and Rapids teams.
 - We discussed possible events that could host Narwhals Open Source Sprint, for example PyLadies Con, PyData Paris.
 - We casually discussed the idea of hackathons and maybe it would be a nice idea to organize one ourselves
+
+
+
+
 
 
 
@@ -44,8 +50,11 @@ _For the notes from the previous meeting, visit:_ https://github.com/narwhals-de
 ## Action items
 
 
+
+
 - Getting in touch with Cuda and Rapids teams
 - Submitting OS Sprint proposal to PyData Paris
+
 
 
 ---
